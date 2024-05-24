@@ -1,0 +1,43 @@
+2023-12-18 01:09:35,564:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:09:35,564:INFO:************Verify testLoginpage************:
+2023-12-18 01:11:09,423:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:11:09,424:INFO:************Verify testLoginpage************:
+2023-12-18 01:13:10,606:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:13:10,606:INFO:************Verify testLoginpage************:
+2023-12-18 01:15:08,867:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:15:08,867:INFO:************Verify testLoginpage************:
+2023-12-18 01:16:34,495:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:16:34,495:INFO:************Verify testLoginpage************:
+2023-12-18 01:18:03,985:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:18:03,988:INFO:************Verify testLoginpage************:
+2023-12-18 01:18:10,288:INFO:*****login DDT test passed:
+2023-12-18 01:18:21,547:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:18:21,547:INFO:************Verify testLoginpage************:
+2023-12-18 01:18:28,616:INFO:*****login DDT test passed:
+2023-12-18 01:22:41,527:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:22:41,530:INFO:************Verify testLoginpage************:
+2023-12-18 01:22:47,472:INFO:*****login DDT test passed:
+2023-12-18 01:22:59,938:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:22:59,938:INFO:************Verify testLoginpage************:
+2023-12-18 01:23:06,436:INFO:*****login DDT test passed:
+2023-12-18 01:26:34,551:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:26:34,551:INFO:************Verify testLoginpage************:
+2023-12-18 01:26:40,500:INFO:*****login DDT test passed:
+2023-12-18 01:26:46,950:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E3DDE59F10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a7dc1e3e736a2f18b74d7b17babc9a10/element:
+2023-12-18 01:26:51,008:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E3DDE91E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a7dc1e3e736a2f18b74d7b17babc9a10/element:
+2023-12-18 01:26:55,077:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E3DDE758D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a7dc1e3e736a2f18b74d7b17babc9a10/element:
+2023-12-18 01:27:25,163:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:27:25,163:INFO:************Verify testLoginpage************:
+2023-12-18 01:27:31,422:INFO:*****login DDT test passed:
+2023-12-18 01:28:03,204:INFO:************Test_loginpageDDT_001************:
+2023-12-18 01:28:03,204:INFO:************Verify testLoginpage************:
+2023-12-18 01:28:09,048:INFO:*****login DDT test passed:
+2023-12-18 15:52:48,578:INFO:************Test_loginpageDDT_001************:
+2023-12-18 15:52:48,581:INFO:************Verify testLoginpage************:
+2023-12-18 15:52:55,496:INFO:*****login DDT test passed:
+2023-12-18 15:54:51,030:INFO:************Test_loginpageDDT_001************:
+2023-12-18 15:54:51,031:INFO:************Verify testLoginpage************:
+2023-12-18 15:55:04,121:INFO:*****login DDT test passed:
+2023-12-18 16:07:09,915:INFO:************Test_loginpageDDT_001************:
+2023-12-18 16:07:09,916:INFO:************Verify testLoginpage************:
+2023-12-18 16:07:24,677:INFO:*****login DDT test passed:
